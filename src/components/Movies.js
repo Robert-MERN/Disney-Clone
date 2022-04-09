@@ -7,7 +7,7 @@ function Movies() {
                 <h4>Recommended for you</h4>
             <Content>
                 <Wrap>
-                   <a href="/detail"> <img src="/movies/incredibles.jpg" /></a>
+                   <a href="/detail"> <img src="/movies/Incredibles.jpg" /></a>
                 </Wrap>
                 <Wrap>
                     <img src="/movies/2.jpg" />
